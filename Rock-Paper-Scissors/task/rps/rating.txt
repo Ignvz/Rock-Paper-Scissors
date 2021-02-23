@@ -1,0 +1,5 @@
+Inazio 0
+Jose 10
+Pedro 20
+Juan 50
+Bob 0
